@@ -1,0 +1,52 @@
+body {
+  border-style: solid;
+  border-width: 10px;
+  border-color: #0099cc;
+  width: 1000px;
+  margin: 0 auto;
+}
+
+body {
+  font-size: 20px;
+  color: #0099cc;
+}
+
+a:hover {
+  color: ;
+}
+
+.summary p{
+  padding: 30px;
+  width: 950px;
+  font-size: 25px;
+}
+
+header {
+  text-align: center;
+}
+
+header h1 {
+  font-size: 32px;
+  color: #0099cc;
+}
+
+header img {
+  border-radius: 300px;
+  width: 220px;
+}
+
+section h2 {
+  font-size: 22px;
+  color: white;
+  background-color: #0099cc;
+  padding: 10px;
+  margin: 20px;
+}
+
+.contact, .social {
+  text-align: center;
+}
+
+footer {
+  text-align: center;
+}
