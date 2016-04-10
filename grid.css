@@ -1,0 +1,25 @@
+.yellow {
+  background-color: #ffff00;
+  height: 300px;
+}
+
+.dark-red {
+  background-color: #992600;
+  height: 300px;
+}
+
+
+.col-md-2 {
+  background-color: #ffffff;
+  height: 300px;
+}
+
+.col-md-5 {
+  background-color: #0000ff;
+  height: 300px;
+}
+
+.col-md-4 {
+  background-color: #ff0000;
+  height: 300px;
+}
